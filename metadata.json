@@ -1,0 +1,6 @@
+{
+  "name": "Hasrat Sesaat",
+  "description": "Portal cerita romansa intim dewasa dan audio ASMR interaktif",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
